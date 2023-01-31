@@ -1,0 +1,24 @@
+{
+  "name": "challenge16_cartes_solo",
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": "> 0.25%, not dead",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html", 
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sophie-aubert/cartes_solo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sophie-aubert/cartes_solo/issues"
+  },
+  "homepage": "https://github.com/sophie-aubert/cartes_solo#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
